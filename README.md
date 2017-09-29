@@ -14,6 +14,7 @@
         └── images                   # unzipped test images (set 1)
     ├── test_add
         └── images                   # unzipped test images (set 2)
+    ├── convnets.py                  # models
     ├── planet_train_predict.ipynb   # main notebook for both training and predicting
     ├── submission_v2.csv            # submissions
     ├── submit.csv                   # submission images ids

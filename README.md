@@ -11,7 +11,7 @@
     ├── initial_files                # data sources (downloaded from the competition page) 
     ├── train
         └── images                   # unzipped train images
-    ├── test_add
+    ├── test
         └── images                   # unzipped test images (set 1)
     ├── test_add
         └── images                   # unzipped test images (set 2)

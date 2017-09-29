@@ -1,7 +1,8 @@
 # Planet: Understanding the Amazon from Space #
 ### What is this repository for? 
 
-* Kaggle competition with a multilabel classification problematic.
+* Kaggle competition with a multilabel classification problematic. obtained a f2 score of 0.90153 (top 55 % - rank 519).
+
 
 ### Contents
 
